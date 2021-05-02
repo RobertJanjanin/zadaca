@@ -1,0 +1,12 @@
+C:\Users\Janjo\source\repos\zadaca\zadaca\bin\Debug\zadaca.exe.config
+C:\Users\Janjo\source\repos\zadaca\zadaca\bin\Debug\zadaca.exe
+C:\Users\Janjo\source\repos\zadaca\zadaca\bin\Debug\zadaca.pdb
+C:\Users\Janjo\source\repos\zadaca\zadaca\obj\Debug\zadaca.csprojAssemblyReference.cache
+C:\Users\Janjo\source\repos\zadaca\zadaca\obj\Debug\zadaca.Form1.resources
+C:\Users\Janjo\source\repos\zadaca\zadaca\obj\Debug\zadaca.vvvvvvvvvvvvvvvvvvvvvv.resources
+C:\Users\Janjo\source\repos\zadaca\zadaca\obj\Debug\zadaca.Form3.resources
+C:\Users\Janjo\source\repos\zadaca\zadaca\obj\Debug\zadaca.Properties.Resources.resources
+C:\Users\Janjo\source\repos\zadaca\zadaca\obj\Debug\zadaca.csproj.GenerateResource.cache
+C:\Users\Janjo\source\repos\zadaca\zadaca\obj\Debug\zadaca.csproj.CoreCompileInputs.cache
+C:\Users\Janjo\source\repos\zadaca\zadaca\obj\Debug\zadaca.exe
+C:\Users\Janjo\source\repos\zadaca\zadaca\obj\Debug\zadaca.pdb
